@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: ppmt
+Version: 1.0.0
+Requires-Dist: mujoco
+Requires-Dist: dm_control
+Requires-Dist: opencv-python
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: torchaudio
+Requires-Dist: numpy
+Dynamic: requires-dist
